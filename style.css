@@ -4316,11 +4316,10 @@ form#commant_form div.field textarea.custom_field {
 }
 
 .fondogalaxia{
-    background: url("images/galaxianegra.png") ;
+    background: url(images/galaxianegra.png) !important;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 
 h4.font_themecolor{
